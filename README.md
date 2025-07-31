@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="Banner from Figma" src="https://github.com/user-attachments/assets/ceb3d58d-664a-45d1-a504-baa5a2aebf87" />
+<img width="1500" height="500" alt="Skyliner Resources Banner (1)" src="https://github.com/user-attachments/assets/25c3deea-15bd-4390-8b96-61baf40df2f1" />
 
 ## 🔧 Technologies & Tools
 
@@ -21,7 +21,7 @@ Currently under development, stay tuned @skyliner.app on Bluesky! </br>
 - Integrates with ATProtocol via ATProtoKit
 - Tons of tiny UI considerations
 
-<img width="5550" height="2796" alt="Templify App Store Template" src="https://github.com/user-attachments/assets/07fbae8a-514f-465b-82f4-b06f03530d73" />
+<img width="5550" height="2796" alt="Skyliner Resources Group 104" src="https://github.com/user-attachments/assets/562ed463-cda8-430a-b01d-3f079c7a1ce2" />
 
 
 ### Boston - AI Assistant
@@ -30,6 +30,9 @@ My first real, unique app, I've learned a lot since then </br>
 - Integrates with SiriKit and OpenAI API
 - Enables ChatGPT access through Siri
 - Multi-platform SwiftUI application
+
+<img width="5550" height="2858" alt="Skyliner Resources Group 105" src="https://github.com/user-attachments/assets/9d04ebc5-1e6a-4266-b8b3-39dbdf672b20" />
+
 
 ## 🌐 Connect with me
 
