@@ -33,13 +33,6 @@ My first real, unique app, I've learned a lot since then </br>
 
 <img width="5550" height="2858" alt="Skyliner Resources Group 105" src="https://github.com/user-attachments/assets/9d04ebc5-1e6a-4266-b8b3-39dbdf672b20" />
 
-
-## 🌐 Connect with me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-waked.dev-007AFF?style=flat&logo=safari&logoColor=white)](https://waked.dev)
-[![Figma](https://img.shields.io/badge/Figma-@waked-007AFF?style=flat&logo=figma&logoColor=white)](https://figma.com/@waked)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rayanwaked-007AFF?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayanwaked)
-
 ## 📈 Profile states
 
 [![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=rayanwaked&count_private=true&show_icons=true&theme=dark&bg_color=1c1c1e&line_height=20&title_color=007AFF&icon_color=007AFF&hide_border=true)](https://github.com/rayanwaked) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanwaked&theme=dark&langs_count=6&layout=compact&bg_color=1c1c1e&title_color=007AFF&icon_color=007AFF&hide_border=true&custom_title=Top%20Languages)](https://github.com/rayanwaked)
