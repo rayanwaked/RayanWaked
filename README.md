@@ -1,6 +1,6 @@
 <img width="1500" height="500" alt="Skyliner Resources Banner (1)" src="https://github.com/user-attachments/assets/25c3deea-15bd-4390-8b96-61baf40df2f1" />
 
-## 🔧 Technologies & Tools
+## 🔧 Programming languages & frameworks
 
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Framework-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Platform-macOS-informational?style=flat&logo=macos&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Platform-visionOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
 
-## 🚀 Featured Projects
+## 🚀 Featured projects & apps
 
 ### Skyliner for Bluesky
 Currently under development, stay tuned @skyliner.app on Bluesky! </br>
@@ -40,7 +40,7 @@ My first real, unique app, I've learned a lot since then </br>
 [![Figma](https://img.shields.io/badge/Figma-@waked-007AFF?style=flat&logo=figma&logoColor=white)](https://figma.com/@waked)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rayanwaked-007AFF?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayanwaked)
 
-## 📈 Stats
+## 📈 Profile states
 
 [![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=rayanwaked&count_private=true&show_icons=true&theme=dark&bg_color=1c1c1e&line_height=20&title_color=007AFF&icon_color=007AFF&hide_border=true)](https://github.com/rayanwaked) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanwaked&theme=dark&langs_count=6&layout=compact&bg_color=1c1c1e&title_color=007AFF&icon_color=007AFF&hide_border=true&custom_title=Top%20Languages)](https://github.com/rayanwaked)
 
