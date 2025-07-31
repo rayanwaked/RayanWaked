@@ -42,4 +42,4 @@ My first real, unique app, I've learned a lot since then </br>
 
 
 *Contribution graph looks a bit empty? Yeah, I delete a lot of repositories. Or as my favorite quote goes:<br>
-"If at first you don't succeed... hide all evidence you ever tried"*
+"If at first you don't succeed... hide all evidence that you've tried"*
