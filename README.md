@@ -37,7 +37,9 @@ My first real, unique app, I've learned a lot since then </br>
 
 [![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=rayanwaked&count_private=true&show_icons=true&theme=dark&bg_color=1c1c1e&line_height=20&title_color=007AFF&icon_color=007AFF&hide_border=true)](https://github.com/rayanwaked) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanwaked&theme=dark&langs_count=6&layout=compact&bg_color=1c1c1e&title_color=007AFF&icon_color=007AFF&hide_border=true&custom_title=Top%20Languages)](https://github.com/rayanwaked)
 
----
+
+<img width="5550" height="1338" alt="Skyliner Resources Banner" src="https://github.com/user-attachments/assets/bf62f722-be87-49d2-9495-cc35af3789ee" />
+
 
 *Contribution graph looks a bit empty? Yeah, I delete a lot of repositories. Or as my favorite quote goes:<br>
 "If at first you don't succeed... hide all evidence you ever tried"*
