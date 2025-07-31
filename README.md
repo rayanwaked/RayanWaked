@@ -39,10 +39,9 @@ My first real, unique app, I've learned a lot since then </br>
 
 ## 📈 Stats
 
-[![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=rayanwaked&count_private=true&show_icons=true&theme=dark&bg_color=1c1c1e&line_height=20&title_color=007AFF&icon_color=007AFF&hide_border=true)](https://github.com/rayanwaked)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanwaked&theme=dark&langs_count=6&layout=compact&bg_color=1c1c1e&title_color=007AFF&icon_color=007AFF&hide_border=true)](https://github.com/rayanwaked)
+[![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=rayanwaked&count_private=true&show_icons=true&theme=dark&bg_color=1c1c1e&line_height=20&title_color=007AFF&icon_color=007AFF&hide_border=true)](https://github.com/rayanwaked) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanwaked&theme=dark&langs_count=6&layout=compact&bg_color=1c1c1e&title_color=007AFF&icon_color=007AFF&hide_border=true&custom_title=Top%20Languages)](https://github.com/rayanwaked)
 
 ---
 
-*"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs
+*Contribution graph looks a bit empty? Yeah, I delete a lot of repositories. Or as my favorite quote goes:<br>
+"If at first you don't succeed... hide all evidence you ever tried"*
