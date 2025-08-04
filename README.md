@@ -9,7 +9,6 @@
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Tool-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=007AFF)
-
 ![](https://img.shields.io/badge/Platform-iOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Platform-macOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Platform-visionOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
