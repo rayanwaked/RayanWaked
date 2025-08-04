@@ -2,15 +2,16 @@
 
 ## 🔧 Programming languages & frameworks
 
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
+![](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Framework-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007AFF)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007AFF)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=007AFF)
-![](https://img.shields.io/badge/Tools-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=007AFF)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=007AFF)
-![](https://img.shields.io/badge/Platform-iOS-informational?style=flat&logo=ios&logoColor=white&color=007AFF)
-![](https://img.shields.io/badge/Platform-macOS-informational?style=flat&logo=macos&logoColor=white&color=007AFF)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007AFF)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007AFF)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=007AFF)
+![](https://img.shields.io/badge/Tool-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=007AFF)
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=007AFF)
+
+![](https://img.shields.io/badge/Platform-iOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
+![](https://img.shields.io/badge/Platform-macOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Platform-visionOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
 
 ## 🚀 Featured projects & apps
