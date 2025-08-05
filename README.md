@@ -24,11 +24,12 @@
 ![](https://img.shields.io/badge/Platform-iPadOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
 
 ### Other Technologies
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=007AFF)
+![](https://img.shields.io/badge/Tool-Sketch-informational?style=flat&logo=sketch&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=007AFF)
-![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=007AFF)
-![](https://img.shields.io/badge/Tool-Sketch-informational?style=flat&logo=sketch&logoColor=white&color=007AFF)
+![](https://img.shields.io/badge/Host-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=007AFF)
 
 ## 🚀 Featured projects & apps
 
