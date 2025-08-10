@@ -41,13 +41,13 @@ Currently under development, stay tuned @skyliner.app on Bluesky! </br>
 
 <img width="5550" height="2796" alt="Skyliner Resources Group 104" src="https://github.com/user-attachments/assets/562ed463-cda8-430a-b01d-3f079c7a1ce2" />
 
-#### Overview
+#### About the app
 
 **Skyliner** is a native iOS client for [Bluesky](https://blueskyweb.xyz), built with Swift and SwiftUI. It utilizes the [ATProtoKit](https://github.com/MasterJ93/ATProtoKit) framework to connect to Bluesky’s AT Protocol. The app focuses on a refined user interface and smooth user experience, with an emphasis on minimalistic and maintainable code. 
 
 This is done with an **MVVM‑C** (Model‑View‑ViewModel‑Coordinator) architecture with a centralized `AppState` for dependency injection and global state. The goal is a refined, elegant user experience built on a clean, maintainable codebase. Development experience matters just as much as user experience.
 
-#### Key Architectural Highlights
+#### Key architectural highlights
 
 - **Centralised state management** via `AppState`, which instantiates managers on demand and coordinates authentication and data loading
 - **Protocol‑oriented design** for post interactions and view models; shared behaviours such as liking or reposting are defined once and reused across managers
@@ -67,7 +67,7 @@ My first real, unique app, I've learned a lot since then </br>
 
 <img width="5550" height="2858" alt="Skyliner Resources Group 105" src="https://github.com/user-attachments/assets/9d04ebc5-1e6a-4266-b8b3-39dbdf672b20" />
 
-## 📈 Profile states
+## 📈 Profile stats
 
 [![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=rayanwaked&count_private=true&show_icons=true&theme=dark&bg_color=1c1c1e&line_height=20&title_color=007AFF&icon_color=007AFF&hide_border=true)](https://github.com/rayanwaked) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanwaked&theme=dark&langs_count=6&layout=compact&bg_color=1c1c1e&title_color=007AFF&icon_color=007AFF&hide_border=true&custom_title=Top%20Languages)](https://github.com/rayanwaked)
 
