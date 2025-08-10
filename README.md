@@ -2,7 +2,7 @@
 
 ## 🔧 Programming languages & frameworks
 
-### iOS Development
+### iOS development
 ![](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/SDK-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/SDK-UIKit-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/SDK-StoreKit-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/SDK-WidgetKit-informational?style=flat&logo=swift&logoColor=white&color=007AFF)
 
-### Tools & Platforms
+### Tools & platforms
 ![](https://img.shields.io/badge/Tool-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Distribution-App%20Store%20Connect-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Testing-TestFlight-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Platform-watchOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Platform-iPadOS-informational?style=flat&logo=apple&logoColor=white&color=007AFF)
 
-### Other Technologies
+### Other technologies
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Tool-Sketch-informational?style=flat&logo=sketch&logoColor=white&color=007AFF)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007AFF)
@@ -58,7 +58,7 @@ This is done with an **MVVM‑C** (Model‑View‑ViewModel‑Coordinator) archi
 <img width="5550" height="1338" alt="Skyliner Resources Banner (2)" src="https://github.com/user-attachments/assets/cac19179-ec93-4ae8-852b-27f1130c8ea1" />
 
 
-### Boston - AI Assistant
+### Boston - OpenAI + SiriKit
 My first real, unique app, I've learned a lot since then </br>
 *AI Assistant for iOS, iPadOS, macOS, and visionOS*
 - Integrates with SiriKit and OpenAI API
