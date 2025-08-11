@@ -34,16 +34,16 @@
 ## 🚀 Featured projects & apps
 
 ### Skyliner for Bluesky
-Currently under development, stay tuned @skyliner.app on Bluesky! </br>
+Currently under development (open-source upon App Store release), stay tuned @skyliner.app on Bluesky! </br>
 *Native iOS client for Bluesky written in Swift/SwiftUI, heavy focus on UX*
 - Integrates with ATProtocol via ATProtoKit
 - Tons of tiny UI considerations
 
 <img width="5550" height="2796" alt="Skyliner Resources Group 104" src="https://github.com/user-attachments/assets/562ed463-cda8-430a-b01d-3f079c7a1ce2" />
 
-#### About the app
+#### About Skyliner
 
-**Skyliner** is a native iOS client for [Bluesky](https://blueskyweb.xyz), built with Swift and SwiftUI. It utilizes the [ATProtoKit](https://github.com/MasterJ93/ATProtoKit) framework to connect to Bluesky’s AT Protocol. The app focuses on a refined user interface and smooth user experience, with an emphasis on minimalistic and maintainable code. 
+**Skyliner** is a native iOS client for [Bluesky](https://bsky.app/), built with Swift and SwiftUI. It utilizes the [ATProtoKit](https://github.com/MasterJ93/ATProtoKit) framework to connect to Bluesky’s AT Protocol. The app focuses on a refined user interface and smooth user experience, with an emphasis on minimalistic and maintainable code. 
 
 This is done with an **MVVM‑C** (Model‑View‑ViewModel‑Coordinator) architecture with a centralized `AppState` for dependency injection and global state. The goal is a refined, elegant user experience built on a clean, maintainable codebase. Development experience matters just as much as user experience.
 
@@ -51,7 +51,6 @@ This is done with an **MVVM‑C** (Model‑View‑ViewModel‑Coordinator) archi
 
 - **Centralised state management** via `AppState`, which instantiates managers on demand and coordinates authentication and data loading
 - **Protocol‑oriented design** for post interactions and view models; shared behaviours such as liking or reposting are defined once and reused across managers
-- **Reactive authentication flow** using `AsyncStream` to propagate a new `ClientManager` to all managers when a session is restored or a user logs in
 - **Feature‑first modularity** – features like Post, Weather, Notification, Banner, Header and TabBar live in their own folders under `4 Features` with their own views and managers, making it easy to reason about and extend individual areas of the app
 - **Modern iOS UI elements** such as SwiftUI's glass effect, backport helpers for iOS 18+ and asynchronous image loading with NukeUI
 
@@ -59,7 +58,7 @@ This is done with an **MVVM‑C** (Model‑View‑ViewModel‑Coordinator) archi
 
 
 ### Boston - OpenAI + SiriKit
-My first real, unique app, I've learned a lot since then </br>
+My first solo-dev app, I've learned a lot since </br>
 *AI Assistant for iOS, iPadOS, macOS, and visionOS*
 - Integrates with SiriKit and OpenAI API
 - Enables ChatGPT access through Siri
