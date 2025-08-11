@@ -54,8 +54,7 @@ This is done with an **MVVM‑C** (Model‑View‑ViewModel‑Coordinator) archi
 - **Feature‑first modularity** – features like Post, Weather, Notification, Banner, Header and TabBar live in their own folders under `4 Features` with their own views and managers, making it easy to reason about and extend individual areas of the app
 - **Modern iOS UI elements** such as SwiftUI's glass effect, backport helpers for iOS 18+ and asynchronous image loading with NukeUI
 
-<img width="5550" height="1338" alt="Skyliner Resources Banner (2)" src="https://github.com/user-attachments/assets/cac19179-ec93-4ae8-852b-27f1130c8ea1" />
-
+<img width="5550" height="1338" alt="Skyliner Sunrise Sky with Clouds Banner" src="https://github.com/user-attachments/assets/da8e700e-23b0-477b-9af0-dec4a7744784" />
 
 ### Boston - OpenAI + SiriKit
 My first solo-dev app, I've learned a lot since </br>
