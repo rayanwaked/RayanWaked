@@ -47,13 +47,6 @@ Currently under development (open-source upon App Store release), stay tuned @sk
 
 This is done with an **MVVM‑C** (Model‑View‑ViewModel‑Coordinator) architecture with a centralized `AppState` for dependency injection and global state. The goal is a refined, elegant user experience built on a clean, maintainable codebase. Development experience matters just as much as user experience.
 
-#### Key architectural highlights
-
-- **Centralised state management** via `AppState`, which instantiates managers on demand and coordinates authentication and data loading
-- **Protocol‑oriented design** for post interactions and view models; shared behaviours such as liking or reposting are defined once and reused across managers
-- **Feature‑first modularity** – features like Post, Weather, Notification, Banner, Header and TabBar live in their own folders under `4 Features` with their own views and managers, making it easy to reason about and extend individual areas of the app
-- **Modern iOS UI elements** such as SwiftUI's glass effect, backport helpers for iOS 18+ and asynchronous image loading with NukeUI
-
 <img width="5550" height="1338" alt="Skyliner Sunrise Sky with Clouds Banner" src="https://github.com/user-attachments/assets/da8e700e-23b0-477b-9af0-dec4a7744784" />
 
 ### Boston - OpenAI + SiriKit
