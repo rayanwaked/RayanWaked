@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="Skyliner Resources Banner (1)" src="https://github.com/user-attachments/assets/25c3deea-15bd-4390-8b96-61baf40df2f1" />
+<img width="1500" height="500" alt="Skyliner Resources Banner" src="https://github.com/user-attachments/assets/25c3deea-15bd-4390-8b96-61baf40df2f1" />
 
 ## 🔧 Programming languages & frameworks
 
