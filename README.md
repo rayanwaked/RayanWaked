@@ -39,7 +39,7 @@ Currently under development (open-source upon App Store release), stay tuned @sk
 - Integrates with ATProtocol via ATProtoKit
 - Tons of tiny UI considerations
 
-<img width="5550" height="2796" alt="Skyliner Resources Group 104" src="https://github.com/user-attachments/assets/562ed463-cda8-430a-b01d-3f079c7a1ce2" />
+<img width="5550" height="2796" alt="Skyliner" src="https://github.com/user-attachments/assets/562ed463-cda8-430a-b01d-3f079c7a1ce2" />
 
 #### About Skyliner
 
